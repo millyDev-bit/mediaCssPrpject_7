@@ -1,0 +1,379 @@
+.block{
+	height: 120vh;
+	background: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/f3175311d0845438a92ac35d/toyotaLandCruiserv82015exteriortme001bfull_tcm3046565874.jpg);
+	background-size: cover;
+	background-position: 100% 50%;
+	backdrop-filter: brightness(1.0);
+}
+.block .row{
+	backdrop-filter: brightness(0.5);
+}
+.box0{
+	height: 120vh;
+	padding-top: 300px;
+}
+.box{
+	height: fit-content;
+	padding-right: 20px;
+	text-align: right;
+}
+.line{
+	border: 1px solid white;
+	width: 900px;
+	height: 10px;
+	margin: 131px auto 0 121px;
+	background: white;
+	margin-left: 250px;
+}
+.box h2{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 60px;
+	margin: -60px 0 0 969px;
+	color: white;
+	margin-right: 170px;
+	font-family: sans-serif;
+}
+.box h1{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 70px;
+	color: #facd3d;
+	margin: 11px 0 0 20px;
+	margin-right: 170px;
+	font-family: sans-serif;
+}
+.box h3{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 50px;
+	color: white;
+	margin: 20px 0 0 20px;
+	margin-right: 170px;
+}
+
+
+
+.block2{
+	height: 140vh;
+	background: black;
+}
+.block2 img{
+	background-position: 50% 50%;
+	width: 100%;
+	height: 719px;
+	margin-top: 78px;
+	object-fit: cover;
+}
+.box01{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	margin-left: 50px;
+}
+.box1{
+	height: fit-content;
+	position: relative;
+	top: -700px;
+}
+.border{
+	width: 343px;
+	height: 10px;
+	margin: 61px auto 0 100px;
+	border: 1px solid white;
+	background: white;
+}
+.box1 h3{
+	font-weight: 700;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin: -30px 464px 0 0;
+	color: white;
+	font-family: sans-serif;
+}
+.box1 h2{
+	font-size: 50px;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #facd3d;
+}
+.box1 h1{
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: white;
+}
+.box1 p{
+	color: white;
+	margin: 80px 121px 60px 0;
+}
+.box1 span{
+	display: block;
+	color: white;
+	margin: 0 121px 50px 0;
+	font-size: 16px;
+}
+.box1 a{
+	color: white;
+	border-bottom: 1px solid #facd3d;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	text-decoration: none;
+}
+
+
+.block3{
+	height: fit-content;
+	background: black;
+}
+.box02{
+	height: fit-content;
+	text-align: right;
+}
+.box2{
+	height: fit-content;
+}
+.border1{
+	width: 343px;
+	height: 10px;
+	border: 1px solid white;
+	background: white;
+	margin: 47px 111px auto 990px;
+}
+.box2 h3{
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: white;
+	margin: -37px 20px 0 538px;
+}
+.box2 h2{
+	font-size: 70px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #facd3d;
+	margin: 24px 13px 30px 100px;
+}
+.quick{
+	color: #facd3d;
+	font-size: 40px;
+	font-weight: 300;
+}
+
+
+
+.block4{
+	height: fit-content;
+	background: black;
+}
+.box03{
+	height: fit-content;
+}
+.box3{
+	height: fit-content;
+	padding: 0 60px;
+}
+.box3 h1{
+	font-size: 30px;
+	color: white;
+	font-weight: 700;
+	margin: 30px 0 0;
+}
+.box3 p{
+	color: white;
+	margin: 20px 0 30px;
+}
+
+
+
+.block5{
+	height: 100vh;
+	background: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/2669ef9d0caf5f689249ff6e/toyotaLandCruiserv82015exteriortme006bfull_tcm3046565889.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.block5 .row{
+	backdrop-filter: brightness(0.5);
+}
+.box04{
+	height: 100vh;
+}
+.box4{
+	height: fit-content;
+	position: relative;
+	bottom: -300px;
+	padding: 0 150px;
+}
+.box4 h3{
+	font-size: 30px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin: -30px 550px 0 -20px;
+}
+.box4 h2{
+	font-size: 50px;
+	color: #facd3d;
+	text-transform: uppercase;
+	font-weight: 700;
+	margin: 20px 20px 25px -25px;
+}
+.box4 a{
+	color: white;
+	border-bottom: 1px solid #facd3d;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	text-decoration: none;
+	margin-left: -25px;
+}
+
+
+.block6{
+	height: 130vh;
+	background: black;
+}
+.block6 img{
+	margin-top: 320px;
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+}
+.box05{
+	height: fit-content;
+	text-align: right;
+}
+.box5{
+	height: fit-content;
+	position: relative;
+	top: -700px;
+}
+.box5 h3{
+	font-size: 30px;
+	color: white;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: -30px 0 0 100px;
+}
+.box5 h2{
+	font-size: 50px;
+	color: #facd3d;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 20px 0 0 20px;
+	padding-left: 900px;
+}
+.box5 a{
+	color: white;
+	border-bottom: 1px solid #facd3d;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	text-decoration: none;
+}
+
+
+.block7{
+	height: fit-content;
+	background: black;
+}
+.box06{
+	height: fit-content;
+}
+.box6{
+	height: fit-content;
+}
+.box6 h3{
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: -31px 457px 0 0;
+	color: white;
+}
+.box6 h2{
+	font-size: 50px;
+	font-weight: 700;
+	margin: 20px 20px 37px 0;
+	color: #facd3d;
+}
+.border2{
+	width: 343px;
+	height: 10px;
+	margin: 41px 800px 0 auto;
+	background: white;
+	border: 1px solid white;
+}
+
+
+.block8{
+	height: fit-content;
+	background: black;
+}
+.box07{
+	height: fit-content;
+}
+.box7{
+	height: fit-content;
+}
+.box7 img{
+	width: 100%;
+	height: 221px;
+	margin: 10px auto;
+	object-fit: cover;
+}
+
+
+.block9{
+	height: fit-content;
+	background: black;
+}
+.box08{
+	height: fit-content;
+}
+.box8{
+	height: fit-content;
+}
+.box8 img{
+	width: 700px;
+	height: 440px;
+	object-fit: cover;
+	margin: 0 auto;
+}
+
+
+.block10{
+	height: 100vh;
+	background: url(https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/5e322cb038d5535d81837923/toyotaLandCruiserv82015interiortme013afull_tcm3046502784.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+}
+.block10 .row{
+	backdrop-filter: brightness(0.5);
+}
+.box09{
+	height: 100vh;
+}
+.box9{
+	height: fit-content;
+	padding: 50px 150px;
+	margin: auto;
+}
+.box9 h2{
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #facd3d;
+	font-weight: 700;
+	margin: 20px 20px 0 0;
+}
+.box9 p{
+	color: white;
+	margin: 20px 135px 0 0;
+}
+.face{
+	display: inline-block;
+	color: white;
+	margin: 30px auto 40px 0;
+	font-size: 20px;
+	padding: 0 5px;
+}
